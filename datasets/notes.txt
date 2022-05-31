@@ -1,0 +1,19 @@
+- REG = total registered number of voters in district
+- VOTE = Valid votes of district
+- QUOTA = VOTE/6
+- PTOTAL = sum of votes of canditate's party in count 1
+- PSIZE = PTOTAL/VOTE * 100
+- QSHARE = CT1/QUOTA * 100
+- PSHARE = CT1/PTOTAL * 100
+- TOPS = Max number of counts from all counts for that canditate
+- LAST = Canditate's total number of votes for last count
+
+- Parties:
+	- Partit Laburista = 13
+	- Partit Nazzjonalista = 12
+	- Alternattiva Demokratika / AD + PD = 28
+	- Moviment Patrijotti Maltin = 36
+	- Alleanza Bidla / ABBA = 37
+	- Partit Popolari = 38
+	- Volt Malta = 39
+	- Independent Candidate = 50
