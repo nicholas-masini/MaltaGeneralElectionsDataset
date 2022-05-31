@@ -7,4 +7,4 @@ The dataset was originally built by the University of Malta for a project. The d
 
 <br>
 
-The Web Scraping Script can be found in the *web_scraper* folder.
+The Web Scraping Script can be found in the *web_scraping_script* folder.
